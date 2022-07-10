@@ -1,7 +1,7 @@
 {
   "creds": {
     "noiseKey": {
-      "private": {
+      "private": {9
         "type": "Buffer",
         "data": "IG+t6n/MU5EzgeoAe2GRFhDaK4k6JOObm9EQiqIz2FI="
       },
