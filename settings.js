@@ -19,10 +19,10 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['27686881509']
-global.premium = ['27686881509']
-global.ownernomer = '27686881509'
-global.ownername = '👩‍💻CYBERXKID👩‍💻'
+global.owner = ['94720159335']
+global.premium = ['94720159335']
+global.ownernomer = '94720159335'
+global.ownername = '*☰  ➢ ͟͞𝙽𝙰𝙿𝚄𝚁𝚄͟͞  ק𝙰𝙽𝙲𝙷𝙰⃟☬*'
 global.botname = '👑ALEXA-QUEEN👑'
 global.footer = '©CYBERXKIDnc.'
 global.ig = 'https://github.com/CYBERXKID'
@@ -30,10 +30,10 @@ global.region = 'India, South India, Kerala'
 global.sc = 'https://github.com/Alexa-Queen-MD'
 global.myweb = 'https://youtube.com/channel/UCKW8EUxAo6A7RKhc35H54wg'
 global.packname = '👑ALEXA-QUEEN👑'
-global.author = '🧚cyberxkid🧚'
+global.author = '*☰  ➢ ͟͞𝙽𝙰𝙿𝚄𝚁𝚄͟͞  ק𝙰𝙽𝙲𝙷𝙰⃟☬*'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
-global.sp = '⭔'
+global.sp = '➢'
 global.mess = {
     success: 'Done ✓',
     admin: 'This Feature Is Only For Admin!',
